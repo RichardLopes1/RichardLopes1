@@ -1,6 +1,7 @@
 # Olá, me chamo Richard ! 
 ## Bem vindo ao meu perfil GitHub 
 
+#Estudo analise e desenvolvimento de sistemas na fiap.
 <!--
 **RichardLopes1/Richardlopes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
