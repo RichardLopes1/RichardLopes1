@@ -1,4 +1,4 @@
-https://br.freepik.com/vetores-gratis/recurso-de-design-de-moldura-de-forma-fluida-azul_31067583.htm#query=bordas%20azuis&position=1&from_view=keyword&track=ais_hybrid&uuid=9e6c3b51-9760-48bd-85aa-8232999760f1
+https://img.freepik.com/vetores-gratis/recurso-de-design-de-moldura-de-forma-fluida-azul_53876-170355.jpg?w=360&t=st=1727351444~exp=1727352044~hmac=fc3a680041d03fab974fd9b59645238df295d7b112c382c8c5327d1e00f7d348
 
 # Olá, me chamo Richard ! 
 ### Bem vindo ao meu perfil GitHub 
