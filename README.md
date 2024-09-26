@@ -5,7 +5,7 @@
 
 ### Curso Análise e Desenvolvimento de Sistema na fiap.
 
-### ferramentas e tecnologias 
+## ferramentas e tecnologias 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" heigth="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  width="40" heigth="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width="40" heigth="40" />
 
 
