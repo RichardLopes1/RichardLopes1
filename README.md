@@ -1,7 +1,7 @@
 # Olá, me chamo Richard ! 
 ### Bem vindo ao meu perfil GitHub 
 
-# Sobre mim:
+## Sobre mim:
 
 ### Curso Análise e Desenvolvimento de Sistema na fiap.
 
