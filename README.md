@@ -1,7 +1,7 @@
 # Olá, me chamo Richard ! 
 ## Bem vindo ao meu perfil GitHub 
 
-#Estudo analise e desenvolvimento de sistemas na fiap.
+# Estudo analise e desenvolvimento de sistemas na fiap.
 
 ## ferramentas e tecnologias 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" heigth="40"/>
