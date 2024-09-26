@@ -1,4 +1,4 @@
-### Olá, me chamo Richard ! 
+# Olá, me chamo Richard ! 
 ### Bem vindo ao meu perfil GitHub 
 
 ### Estudo analise e desenvolvimento de sistemas na fiap.
