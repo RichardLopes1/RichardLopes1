@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/vetores-gratis/recurso-de-design-de-moldura-de-forma-fluida-azul_53876-170355.jpg?w=360&t=st=1727351444~exp=1727352044~hmac=fc3a680041d03fab974fd9b59645238df295d7b112c382c8c5327d1e00f7d348" width=100% border= "none" alt="Texto Alternativo">
+
 
 # Olá, me chamo Richard ! 
 ### Bem vindo ao meu perfil GitHub 
